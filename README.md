@@ -1,16 +1,38 @@
-# flutter_application_1
+# 🎨 Flutter Login App con Animación
 
-A new Flutter project.
+Bienvenido a **Flutter Login App**, una aplicación móvil sencilla pero llamativa desarrollada en **Flutter**.  
+Incluye una pantalla de inicio de sesión interactiva con **animaciones de Rive** y un diseño amigable para el usuario.  
 
-## Getting Started
+## ▶️ Autora
+- 😄 Urcelay Moreno Fernanda
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Características principales
+- 🔑 **Pantalla de login** con campos de correo y contraseña  
+- 👁️ Botón para **mostrar/ocultar contraseña**  
+- 🐻 **Animación de un oso** con Rive que reacciona a la interacción  
+- 📱 **Interfaz intuitiva y minimalista**  
+- 🚀 Código limpio y fácil de entender  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tecnologías utilizadas
+- [Flutter](https://flutter.dev/)  
+- [Dart](https://dart.dev/)  
+- [Rive](https://rive.app/) para animaciones  
+- [Android Studio](https://developer.android.com/)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Animacion
+
+[Animación](https://dribbble.com/shots/22810177-RiveBear-Login-Animated-Polar-Bear-Flutter-Rive-Widget) #para descargar el .riv
+
+---
+
+## 📷 Ejecutar la app
+- Vamos a VS code
+- Apartado de "Run"
+- Start Debugging o F5
+- Elegimos donde queremos ejecutarlo (Google)
+
+
