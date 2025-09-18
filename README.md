@@ -1,38 +1,84 @@
-# 🎨 Flutter Login App con Animación
+Welcome to Flutter Login App, a simple yet eye-catching mobile application developed with Flutter.
+It features an interactive login screen with Rive animations and a user-friendly design.
 
-Bienvenido a **Flutter Login App**, una aplicación móvil sencilla pero llamativa desarrollada en **Flutter**.  
-Incluye una pantalla de inicio de sesión interactiva con **animaciones de Rive** y un diseño amigable para el usuario.  
+Flutter is a framework for building mobile, web, and desktop applications created by Google. It allows developers to create cross-platform native apps using a single programming language, Dart, offering fast development, beautiful UI, and high performance thanks to its own rendering engine.
 
-## ▶️ Autora
-- 😄 Urcelay Moreno Fernanda
----
+Rive is a tool that allows creating interactive real-time animations for applications. The State Machine in Rive lets you control animations based on user interaction—for example, making a bear look happy or sad depending on whether the password is correct.
 
-## ✨ Características principales
-- 🔑 **Pantalla de login** con campos de correo y contraseña  
-- 👁️ Botón para **mostrar/ocultar contraseña**  
-- 🐻 **Animación de un oso** con Rive que reacciona a la interacción  
-- 📱 **Interfaz intuitiva y minimalista**  
-- 🚀 Código limpio y fácil de entender  
+▶️ Author
 
----
+😄 Rodrigo Gaxiola
 
-## 🛠️ Tecnologías utilizadas
-- [Flutter](https://flutter.dev/)  
-- [Dart](https://dart.dev/)  
-- [Rive](https://rive.app/) para animaciones  
-- [Android Studio](https://developer.android.com/)
----
+Fernanda Urcelay Moreno
 
-## 📷 Animacion
+Mobile Development
 
-[Animación](https://dribbble.com/shots/22810177-RiveBear-Login-Animated-Polar-Bear-Flutter-Rive-Widget) #para descargar el .riv
+✨ Key Features
 
----
+🔑 Login screen with email and password fields
 
-## 📷 Ejecutar la app
-- Vamos a VS code
-- Apartado de "Run"
-- Start Debugging o F5
-- Elegimos donde queremos ejecutarlo (Google)
+👁️ Button to show/hide password
+
+🐻 Bear animation using Rive that reacts to interactions
+
+📱 Intuitive and minimalistic interface
+
+🚀 Clean and easy-to-understand code
+
+🛠️ Technologies Used
+
+Flutter
+
+Dart
+
+Rive
+ for animations
+
+Android Studio
+
+GIF Converter
+
+📂 Basic Project Structure
+
+Inside the lib folder, you will find the main files:
+
+main.dart → Main entry point of the app
+
+login_screen.dart → Login screen with logic and animations
+
+rive_animation.dart → Bear animation control using Rive
+
+widgets/ → Reusable components
+
+🎬 Demo
+
+Insert a GIF here showing the full app functionality:
+
+
+📚 Academic Information
+
+Subject: Subject Name
+
+Instructor: Instructor Name
+
+📷 Animation & Credits
+
+Animation created by RiveBear on Dribbble
+ 🐻
+You can download the .riv file from the link above.
+
+📥 Run the App
+
+Open VS Code
+
+Go to the "Run" section
+
+Click Start Debugging or press F5
+
+Choose the device where you want to run the app (e.g., Google device)
+
+Credits
+
+https://dribbble.com/shots/22810177-RiveBear-Login-Animated-Polar-Bear-Flutter-Rive-Widget
 
 
